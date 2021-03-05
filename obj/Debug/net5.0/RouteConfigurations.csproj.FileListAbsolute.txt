@@ -1,0 +1,11 @@
+C:\Users\farshid\source\repos\TestProject\RouteConfigurations\bin\Debug\net5.0\RouteConfigurations.deps.json
+C:\Users\farshid\source\repos\TestProject\RouteConfigurations\bin\Debug\net5.0\RouteConfigurations.dll
+C:\Users\farshid\source\repos\TestProject\RouteConfigurations\bin\Debug\net5.0\ref\RouteConfigurations.dll
+C:\Users\farshid\source\repos\TestProject\RouteConfigurations\bin\Debug\net5.0\RouteConfigurations.pdb
+C:\Users\farshid\source\repos\TestProject\RouteConfigurations\obj\Debug\net5.0\RouteConfigurations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farshid\source\repos\TestProject\RouteConfigurations\obj\Debug\net5.0\RouteConfigurations.AssemblyInfoInputs.cache
+C:\Users\farshid\source\repos\TestProject\RouteConfigurations\obj\Debug\net5.0\RouteConfigurations.AssemblyInfo.cs
+C:\Users\farshid\source\repos\TestProject\RouteConfigurations\obj\Debug\net5.0\RouteConfigurations.csproj.CoreCompileInputs.cache
+C:\Users\farshid\source\repos\TestProject\RouteConfigurations\obj\Debug\net5.0\RouteConfigurations.dll
+C:\Users\farshid\source\repos\TestProject\RouteConfigurations\obj\Debug\net5.0\ref\RouteConfigurations.dll
+C:\Users\farshid\source\repos\TestProject\RouteConfigurations\obj\Debug\net5.0\RouteConfigurations.pdb
