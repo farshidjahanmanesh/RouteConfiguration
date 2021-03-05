@@ -12,9 +12,10 @@ you can set patterns,names,Constrants,DataTokens and options in here by chain ro
 
 
 ## step two
+
 in your configureService method in Startup class , add this lines of code.
-services.AddSingleton<IProfileRouteMapper, "your class name in prior step" >();
-services.Configure<Profile>(c => { });
+
+![image](https://user-images.githubusercontent.com/36743160/110175298-c6864280-7e16-11eb-9c39-d13e763a6cf8.png)
   
 ## step three
 add IOptions<"your class name in prior step"> in configure method (this is inject by DI)
